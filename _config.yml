@@ -1,0 +1,23 @@
+name: Wild WestSide
+favicon: null
+layout_spectrum: 0.6534741641953588
+typography_spectrum: 0.2643676660954952
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.34633870143443346
+  lightness: 0.2190179219469428
+  saturation: 0.4977075862698257
+  rhythmicContrast: 0.72071164380759
+purpose: []
