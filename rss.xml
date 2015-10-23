@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Urban Taxidermy]]></title>
+        <description><![CDATA[Urban Taxidermy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 23 Oct 2015 15:56:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ABOUT | Wild WestSide]]></title>
+            <description><![CDATA[<article><h1>ABOUT | Wild WestSide</h1><p>About the Artist...</p><img src="http://wildwestside.website/images/about2.jpg"></article>]]></description>
+            <link>http://www.wildwestside.com/about</link>
+            <guid isPermaLink="false">e1c08358-7441-4b7a-be59-4386f8518c4e</guid>
+            <pubDate>Fri, 23 Oct 2015 15:56:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
