@@ -4,7 +4,7 @@
         <description><![CDATA[Urban Taxidermy]]></description>
         <link>https://thegrid.ai/wild-westside/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 15:57:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 15:59:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wild-westside/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[OG Impala MINI ]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.wildwestside.com/</link>
             <guid isPermaLink="false">aa4cd2ed-95ee-43d7-9a17-c3c0c25c1e5d</guid>
             <pubDate>Fri, 23 Oct 2015 15:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ABOUT | Wild WestSide]]></title>
-            <description><![CDATA[<article><h1>ABOUT | Wild WestSide</h1><p>About the Artist...</p><img src="http://wildwestside.website/images/about2.jpg"></article>]]></description>
-            <link>http://www.wildwestside.com/about</link>
-            <guid isPermaLink="false">e1c08358-7441-4b7a-be59-4386f8518c4e</guid>
-            <pubDate>Fri, 23 Oct 2015 15:56:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
