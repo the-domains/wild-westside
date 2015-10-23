@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Urban Taxidermy]]></title>
         <description><![CDATA[Urban Taxidermy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wild-westside/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 15:56:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 23 Oct 2015 15:57:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wild-westside/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://wildwestside.website/images/SneakPeek2.jpg">]]></description>
+            <link>https://thegrid.ai/wild-westside/aa4cd2ed-95ee-43d7-9a17-c3c0c25c1e5d/index.html</link>
+            <guid isPermaLink="false">aa4cd2ed-95ee-43d7-9a17-c3c0c25c1e5d</guid>
+            <pubDate>Fri, 23 Oct 2015 15:56:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ABOUT | Wild WestSide]]></title>
             <description><![CDATA[<article><h1>ABOUT | Wild WestSide</h1><p>About the Artist...</p><img src="http://wildwestside.website/images/about2.jpg"></article>]]></description>
